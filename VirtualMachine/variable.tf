@@ -1,0 +1,6 @@
+variable "linuxvm" {
+
+}
+variable "passw" {
+  
+}

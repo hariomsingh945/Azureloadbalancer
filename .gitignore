@@ -1,3 +1,14 @@
-# .gitignore
 /ResourceGroup/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
-
+/VirtualNetwork/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
+/VirtualMachine/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
+/Subnet/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
+/Sqlserver/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
+/SQLDatabase/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
+/publicip/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
+/publicip/.terraform/providers/registry.terraform.io/hashicorp/azurerm/2.2.0/windows_amd64/terraform-provider-azurerm_v2.2.0_x5.exe
+/niccard/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
+/NetworkSecurityGroup/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
+/mapnetworksecurityinterface/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
+/BastionHost/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
+/AzureloadbalancerMAP/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.86.0/windows_amd64/terraform-provider-azurerm_v3.86.0_x5.exe
+/Azureloadbalancer/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
